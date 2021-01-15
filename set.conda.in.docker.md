@@ -74,5 +74,5 @@ jupyter lab --ip=[ip address] --port=8888 --allow-root
 > Export conda environment as `yml`
 ```bash
 conda env export -f my-env.yml --no-builds  # --no-builds option prevents platform conflicts
-## caution: You may see the path of the environment given in the last line of `*.yml` file and it depends on your work. So it may need a change.
 ```
+caution: You may see the path of the environment given in the last line of `*.yml` file and it depends on your work. So it may need a change.
