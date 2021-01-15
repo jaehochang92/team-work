@@ -1,0 +1,13 @@
+name: my-r
+channels:
+  - defaults
+dependencies:
+  - r-base
+  - rstudio
+  - r-glmnet
+  - r-devtools
+  - r-ggplot
+  - r-data.table
+  - r-dplyr
+  - r-purrr
+  - r-stargazer
