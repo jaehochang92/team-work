@@ -6,7 +6,7 @@ dependencies:
   - rstudio
   - r-glmnet
   - r-devtools
-  - r-ggplot
+  - r-ggplot2
   - r-data.table
   - r-dplyr
   - r-purrr
